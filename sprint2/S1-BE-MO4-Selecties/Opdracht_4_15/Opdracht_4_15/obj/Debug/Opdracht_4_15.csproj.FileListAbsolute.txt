@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\bin\Debug\Opdracht_4_15.exe.config
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\bin\Debug\Opdracht_4_15.exe
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\bin\Debug\Opdracht_4_15.pdb
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\obj\Debug\Opdracht_4_15.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\obj\Debug\Opdracht_4_15.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\obj\Debug\Opdracht_4_15.exe
+C:\Users\Administrator\source\repos\Opdracht_4_15\Opdracht_4_15\obj\Debug\Opdracht_4_15.pdb

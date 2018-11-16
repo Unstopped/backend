@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.exe.config
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.exe
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.pdb
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.exe
+C:\Users\Administrator\source\repos\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.exe.config
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\bin\Debug\Opdracht_4_9.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.csprojAssemblyReference.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO4-Selecties\Opdracht_4_9\Opdracht_4_9\obj\Debug\Opdracht_4_9.pdb

@@ -64,6 +64,7 @@ namespace ConsoleApp6
                     }
                     if (automaat == "ja" || automaat == "nee" || check != "a")
                     {
+                        eindprijs = prijs;
                         Console.Clear();
                         if (lak == "ja")
                         {

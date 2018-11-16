@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\bin\Debug\Opdracht_4_3.exe.config
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\bin\Debug\Opdracht_4_3.exe
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\bin\Debug\Opdracht_4_3.pdb
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\obj\Debug\Opdracht_4_3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\obj\Debug\Opdracht_4_3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\obj\Debug\Opdracht_4_3.exe
+C:\Users\Administrator\source\repos\Opdracht_4_3\Opdracht_4_3\obj\Debug\Opdracht_4_3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\bin\Debug\opdracht_3_3.exe.config
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\bin\Debug\opdracht_3_3.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\bin\Debug\opdracht_3_3.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\obj\Debug\opdracht_3_3.csprojAssemblyReference.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\obj\Debug\opdracht_3_3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\obj\Debug\opdracht_3_3.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-M03-Methoden\3_3\opdracht_3_3\obj\Debug\opdracht_3_3.pdb

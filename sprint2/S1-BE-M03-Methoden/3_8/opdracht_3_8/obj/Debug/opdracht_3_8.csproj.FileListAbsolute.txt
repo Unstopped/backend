@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\bin\Debug\opdracht_3_8.exe.config
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\bin\Debug\opdracht_3_8.exe
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\bin\Debug\opdracht_3_8.pdb
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\obj\Debug\opdracht_3_8.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\obj\Debug\opdracht_3_8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\obj\Debug\opdracht_3_8.exe
+C:\Users\Administrator\source\repos\opdracht_3_8\opdracht_3_8\obj\Debug\opdracht_3_8.pdb
