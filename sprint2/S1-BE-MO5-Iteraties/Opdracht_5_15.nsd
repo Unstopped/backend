@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.28" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preForIn="foreach" stepFor="by" author="Administrator" created="2018-11-22" changedby="Administrator" changed="2018-11-22" origin="Structorizer 3.28" text="&#34;???&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;input text&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;textreversed &#60;- text.reversed &#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<alternative text="&#34;textreversed == text&#34;" comment="" color="ffffff" disabled="0">
+			<qTrue>
+				<instruction text="&#34;output &#34;&#34;het is een palindroom&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;output &#34;&#34;het is geen palindroom&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qFalse>
+		</alternative>
+	</children>
+</root>

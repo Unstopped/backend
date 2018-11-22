@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.exe.config
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.exe
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.pdb
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.exe
+C:\Users\Administrator\source\repos\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.exe.config
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\bin\Debug\Opdracht5_15.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.csprojAssemblyReference.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Github\Erel\backend\sprint2\S1-BE-MO5-Iteraties\Opdracht5_15\Opdracht5_15\obj\Debug\Opdracht5_15.pdb

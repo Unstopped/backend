@@ -1,0 +1,7 @@
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\bin\Debug\opdracht_1_1.exe.config
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\bin\Debug\opdracht_1_1.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\bin\Debug\opdracht_1_1.pdb
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\obj\Debug\opdracht_1_1.csprojAssemblyReference.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\obj\Debug\opdracht_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\obj\Debug\opdracht_1_1.exe
+C:\Users\Administrator\ROC van Twente\Syon Foppen - The elite\Persoonlijk\Erel\visual studio\opdracht_1_1\opdracht_1_1\obj\Debug\opdracht_1_1.pdb

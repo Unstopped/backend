@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\bin\Debug\Opdracht5_21.exe.config
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\bin\Debug\Opdracht5_21.exe
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\bin\Debug\Opdracht5_21.pdb
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\obj\Debug\Opdracht5_21.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\obj\Debug\Opdracht5_21.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\obj\Debug\Opdracht5_21.exe
+C:\Users\Administrator\source\repos\Opdracht5_21\Opdracht5_21\obj\Debug\Opdracht5_21.pdb
